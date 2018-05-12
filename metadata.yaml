@@ -1,0 +1,27 @@
+_repo: The-Adhesive-Postage-Stamp_39569
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chalmers, Patrick
+    gutenberg_agent_id: '40088'
+    url: http://www.gutenberg.org/2009/agents/40088
+description: ''
+gutenberg_issued: '2012-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39569'
+  lccn: 08013102
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hill, Rowland, Sir, 1795-1879'
+- !lcc 'HE'
+- !lcsh 'Chalmers, James, 1782-1853'
+- !lcsh 'Postage stamps'
+title: The Adhesive Postage Stamp
+url: http://www.gutenberg.org/ebooks/39569
